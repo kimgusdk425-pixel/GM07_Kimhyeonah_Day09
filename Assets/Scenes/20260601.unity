@@ -214,7 +214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff572ebc98cffac428c6c81be42917f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AnimationController
-  refAnimator: {fileID: 0}
+  refAnimator: {fileID: 1406220437}
 --- !u!4 &1248537389
 Transform:
   m_ObjectHideFlags: 0

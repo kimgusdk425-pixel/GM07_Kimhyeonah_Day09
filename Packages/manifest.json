@@ -1,6 +1,13 @@
 {
   "dependencies": {
+    "com.unity.inputsystem": "1.17.0",
     "com.unity.multiplayer.center": "1.0.1",
+    "com.unity.render-pipelines.core": "file:C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.render-pipelines.core",
+    "com.unity.render-pipelines.universal": "file:C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.render-pipelines.universal",
+    "com.unity.render-pipelines.universal-config": "file:C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.render-pipelines.universal-config",
+    "com.unity.shadergraph": "file:C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.shadergraph",
+    "com.unity.textmeshpro": "5.0.0",
+    "com.unity.ugui": "2.0.0",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
